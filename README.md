@@ -64,12 +64,9 @@ A **Streamlit web app** that analyzes resumes (PDF, DOCX, TXT) and predicts the 
 ## ⚡ Installation
 
 1. Ensure your pre-trained ML files are present:
-
-clf.pkl → trained classifier
-
-tfidf.pkl → TF-IDF vectorizer
-
-encoder.pkl → Label encoder
+- clf.pkl → `trained classifier`  
+- tfidf.pkl → `TF-IDF vectorizer`
+- encoder.pkl → `Label encoder`
 
 2. Clone the repository:
 
